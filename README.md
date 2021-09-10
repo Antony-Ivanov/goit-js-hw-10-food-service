@@ -1,3 +1,5 @@
+permalink: /index.html
+
 # Parcel boilerplate
 
 ## Скрытые файлы
