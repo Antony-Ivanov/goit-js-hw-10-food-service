@@ -1,6 +1,6 @@
 import data from './menu.json';
-import template from './template.hbs';
-import theme from './switch-theme.js';
+import template from './template/template.hbs';
+import theme from './js/switch-theme.js';
 
 // console.log(data);
 // console.log(template);
